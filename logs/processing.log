@@ -1,0 +1,636 @@
+2025-02-02 13:03:51,260 - processor - INFO - Starting processing of hsa-miR-7112-3p.xls
+2025-02-02 13:03:51,260 - processor - INFO - Reading file: downloaded_files\hsa-miR-7112-3p.xls
+2025-02-02 13:03:51,261 - processor - INFO - Starting processing of hsa-miR-5003-5p.xls
+2025-02-02 13:03:51,261 - processor - INFO - Starting processing of hsa-miR-2276-3p.xls
+2025-02-02 13:03:51,261 - processor - INFO - Starting processing of hsa-miR-3156-3p.xls
+2025-02-02 13:03:51,261 - processor - INFO - Reading file: downloaded_files\hsa-miR-5003-5p.xls
+2025-02-02 13:03:51,262 - processor - INFO - Reading file: downloaded_files\hsa-miR-2276-3p.xls
+2025-02-02 13:03:51,262 - processor - INFO - Reading file: downloaded_files\hsa-miR-3156-3p.xls
+2025-02-02 13:03:51,262 - processor - INFO - No available results in downloaded_files\hsa-miR-7112-3p.xls
+2025-02-02 13:03:51,263 - processor - INFO - No available results in downloaded_files\hsa-miR-5003-5p.xls
+2025-02-02 13:03:51,263 - processor - INFO - No available results in downloaded_files\hsa-miR-3156-3p.xls
+2025-02-02 13:03:51,264 - processor - INFO - Starting processing of hsa-miR-876-5p.xls
+2025-02-02 13:03:51,264 - processor - INFO - No available results in downloaded_files\hsa-miR-2276-3p.xls
+2025-02-02 13:03:51,264 - processor - INFO - Starting processing of hsa-miR-3167.xls
+2025-02-02 13:03:51,265 - processor - INFO - Starting processing of hsa-miR-5691.xls
+2025-02-02 13:03:51,265 - processor - INFO - Reading file: downloaded_files\hsa-miR-876-5p.xls
+2025-02-02 13:03:51,266 - processor - INFO - Starting processing of hsa-miR-4307.xls
+2025-02-02 13:03:51,266 - processor - INFO - Reading file: downloaded_files\hsa-miR-4307.xls
+2025-02-02 13:03:51,266 - processor - INFO - Reading file: downloaded_files\hsa-miR-5691.xls
+2025-02-02 13:03:51,266 - processor - INFO - Reading file: downloaded_files\hsa-miR-3167.xls
+2025-02-02 13:03:51,268 - processor - INFO - Successfully processed downloaded_files\hsa-miR-876-5p.xls
+2025-02-02 13:03:51,268 - processor - INFO - No available results in downloaded_files\hsa-miR-4307.xls
+2025-02-02 13:03:51,269 - processor - INFO - Successfully processed downloaded_files\hsa-miR-3167.xls
+2025-02-02 13:03:51,270 - processor - INFO - Successfully extracted data from hsa-miR-876-5p.xls
+2025-02-02 13:03:51,271 - processor - INFO - Starting processing of hsa-miR-6080.xls
+2025-02-02 13:03:51,272 - processor - INFO - Successfully extracted data from hsa-miR-3167.xls
+2025-02-02 13:03:51,272 - processor - INFO - Starting processing of hsa-miR-676-3p.xls
+2025-02-02 13:03:51,272 - processor - INFO - Reading file: downloaded_files\hsa-miR-6080.xls
+2025-02-02 13:03:51,272 - processor - INFO - Starting processing of hsa-miR-450b-3p.xls
+2025-02-02 13:03:51,272 - processor - INFO - Reading file: downloaded_files\hsa-miR-676-3p.xls
+2025-02-02 13:03:51,273 - processor - INFO - Reading file: downloaded_files\hsa-miR-450b-3p.xls
+2025-02-02 13:03:51,274 - processor - INFO - No available results in downloaded_files\hsa-miR-6080.xls
+2025-02-02 13:03:51,274 - processor - INFO - No available results in downloaded_files\hsa-miR-450b-3p.xls
+2025-02-02 13:03:51,275 - processor - INFO - Successfully processed downloaded_files\hsa-miR-676-3p.xls
+2025-02-02 13:03:51,276 - processor - INFO - Starting processing of hsa-miR-6805-3p.xls
+2025-02-02 13:03:51,277 - processor - INFO - Starting processing of hsa-miR-6890-3p.xls
+2025-02-02 13:03:51,278 - processor - INFO - Successfully extracted data from hsa-miR-676-3p.xls
+2025-02-02 13:03:51,278 - processor - INFO - Successfully processed downloaded_files\hsa-miR-5691.xls
+2025-02-02 13:03:51,278 - processor - INFO - Reading file: downloaded_files\hsa-miR-6805-3p.xls
+2025-02-02 13:03:51,279 - processor - INFO - Reading file: downloaded_files\hsa-miR-6890-3p.xls
+2025-02-02 13:03:51,279 - processor - INFO - Starting processing of hsa-miR-5009-3p.xls
+2025-02-02 13:03:51,280 - processor - INFO - Successfully extracted data from hsa-miR-5691.xls
+2025-02-02 13:03:51,281 - processor - INFO - Reading file: downloaded_files\hsa-miR-5009-3p.xls
+2025-02-02 13:03:51,281 - processor - INFO - Starting processing of hsa-miR-4769-3p.xls
+2025-02-02 13:03:51,281 - processor - INFO - Reading file: downloaded_files\hsa-miR-4769-3p.xls
+2025-02-02 13:03:51,281 - processor - INFO - No available results in downloaded_files\hsa-miR-6890-3p.xls
+2025-02-02 13:03:51,282 - processor - INFO - No available results in downloaded_files\hsa-miR-4769-3p.xls
+2025-02-02 13:03:51,283 - processor - INFO - Starting processing of hsa-miR-4765.xls
+2025-02-02 13:03:51,283 - processor - INFO - Starting processing of hsa-miR-6752-5p.xls
+2025-02-02 13:03:51,283 - processor - INFO - Reading file: downloaded_files\hsa-miR-4765.xls
+2025-02-02 13:03:51,284 - processor - INFO - Reading file: downloaded_files\hsa-miR-6752-5p.xls
+2025-02-02 13:03:51,285 - processor - INFO - No available results in downloaded_files\hsa-miR-6752-5p.xls
+2025-02-02 13:03:51,286 - processor - INFO - No available results in downloaded_files\hsa-miR-4765.xls
+2025-02-02 13:03:51,287 - processor - INFO - Starting processing of hsa-miR-6817-5p.xls
+2025-02-02 13:03:51,288 - processor - INFO - Starting processing of hsa-miR-6751-5p.xls
+2025-02-02 13:03:51,288 - processor - INFO - Reading file: downloaded_files\hsa-miR-6817-5p.xls
+2025-02-02 13:03:51,288 - processor - INFO - Reading file: downloaded_files\hsa-miR-6751-5p.xls
+2025-02-02 13:03:51,290 - processor - INFO - Successfully processed downloaded_files\hsa-miR-6805-3p.xls
+2025-02-02 13:03:51,290 - processor - INFO - No available results in downloaded_files\hsa-miR-6751-5p.xls
+2025-02-02 13:03:51,290 - processor - INFO - Successfully processed downloaded_files\hsa-miR-5009-3p.xls
+2025-02-02 13:03:51,290 - processor - INFO - No available results in downloaded_files\hsa-miR-6817-5p.xls
+2025-02-02 13:03:51,291 - processor - INFO - Successfully extracted data from hsa-miR-6805-3p.xls
+2025-02-02 13:03:51,292 - processor - INFO - Starting processing of hsa-miR-6777-5p.xls
+2025-02-02 13:03:51,293 - processor - INFO - Successfully extracted data from hsa-miR-5009-3p.xls
+2025-02-02 13:03:51,293 - processor - INFO - Starting processing of hsa-miR-6803-5p.xls
+2025-02-02 13:03:51,293 - processor - INFO - Starting processing of hsa-miR-7844-5p.xls
+2025-02-02 13:03:51,293 - processor - INFO - Reading file: downloaded_files\hsa-miR-6777-5p.xls
+2025-02-02 13:03:51,294 - processor - INFO - Starting processing of hsa-miR-6835-5p.xls
+2025-02-02 13:03:51,294 - processor - INFO - Reading file: downloaded_files\hsa-miR-6803-5p.xls
+2025-02-02 13:03:51,294 - processor - INFO - Reading file: downloaded_files\hsa-miR-7844-5p.xls
+2025-02-02 13:03:51,294 - processor - INFO - Reading file: downloaded_files\hsa-miR-6835-5p.xls
+2025-02-02 13:03:51,295 - processor - INFO - No available results in downloaded_files\hsa-miR-6777-5p.xls
+2025-02-02 13:03:51,296 - processor - INFO - No available results in downloaded_files\hsa-miR-7844-5p.xls
+2025-02-02 13:03:51,296 - processor - INFO - Starting processing of hsa-miR-4330.xls
+2025-02-02 13:03:51,296 - processor - INFO - No available results in downloaded_files\hsa-miR-6803-5p.xls
+2025-02-02 13:03:51,296 - processor - INFO - No available results in downloaded_files\hsa-miR-6835-5p.xls
+2025-02-02 13:03:51,297 - processor - INFO - Starting processing of hsa-miR-6842-5p.xls
+2025-02-02 13:03:51,297 - processor - INFO - Reading file: downloaded_files\hsa-miR-4330.xls
+2025-02-02 13:03:51,297 - processor - INFO - Starting processing of hsa-miR-7110-5p.xls
+2025-02-02 13:03:51,298 - processor - INFO - Starting processing of hsa-miR-6889-5p.xls
+2025-02-02 13:03:51,298 - processor - INFO - Reading file: downloaded_files\hsa-miR-6842-5p.xls
+2025-02-02 13:03:51,298 - processor - INFO - Reading file: downloaded_files\hsa-miR-7110-5p.xls
+2025-02-02 13:03:51,298 - processor - INFO - Reading file: downloaded_files\hsa-miR-6889-5p.xls
+2025-02-02 13:03:51,299 - processor - INFO - No available results in downloaded_files\hsa-miR-4330.xls
+2025-02-02 13:03:51,299 - processor - INFO - No available results in downloaded_files\hsa-miR-7110-5p.xls
+2025-02-02 13:03:51,300 - processor - INFO - Starting processing of hsa-miR-4793-3p.xls
+2025-02-02 13:03:51,300 - processor - INFO - No available results in downloaded_files\hsa-miR-6842-5p.xls
+2025-02-02 13:03:51,300 - processor - INFO - No available results in downloaded_files\hsa-miR-6889-5p.xls
+2025-02-02 13:03:51,301 - processor - INFO - Starting processing of hsa-miR-6715a-3p.xls
+2025-02-02 13:03:51,301 - processor - INFO - Reading file: downloaded_files\hsa-miR-4793-3p.xls
+2025-02-02 13:03:51,302 - processor - INFO - Starting processing of hsa-miR-3152-5p.xls
+2025-02-02 13:03:51,303 - processor - INFO - Starting processing of hsa-miR-3135a.xls
+2025-02-02 13:03:51,303 - processor - INFO - Reading file: downloaded_files\hsa-miR-6715a-3p.xls
+2025-02-02 13:03:51,304 - processor - INFO - Reading file: downloaded_files\hsa-miR-3152-5p.xls
+2025-02-02 13:03:51,304 - processor - INFO - Reading file: downloaded_files\hsa-miR-3135a.xls
+2025-02-02 13:03:51,304 - processor - INFO - No available results in downloaded_files\hsa-miR-4793-3p.xls
+2025-02-02 13:03:51,305 - processor - INFO - No available results in downloaded_files\hsa-miR-6715a-3p.xls
+2025-02-02 13:03:51,306 - processor - INFO - Starting processing of hsa-miR-3974.xls
+2025-02-02 13:03:51,307 - processor - INFO - No available results in downloaded_files\hsa-miR-3135a.xls
+2025-02-02 13:03:51,307 - processor - INFO - No available results in downloaded_files\hsa-miR-3152-5p.xls
+2025-02-02 13:03:51,308 - processor - INFO - Reading file: downloaded_files\hsa-miR-3974.xls
+2025-02-02 13:03:51,309 - processor - INFO - Starting processing of hsa-miR-520a-5p.xls
+2025-02-02 13:03:51,310 - processor - INFO - Starting processing of hsa-miR-1207-3p.xls
+2025-02-02 13:03:51,310 - processor - INFO - Starting processing of hsa-miR-525-5p.xls
+2025-02-02 13:03:51,311 - processor - INFO - Reading file: downloaded_files\hsa-miR-520a-5p.xls
+2025-02-02 13:03:51,311 - processor - INFO - Reading file: downloaded_files\hsa-miR-1207-3p.xls
+2025-02-02 13:03:51,311 - processor - INFO - Reading file: downloaded_files\hsa-miR-525-5p.xls
+2025-02-02 13:03:51,312 - processor - INFO - No available results in downloaded_files\hsa-miR-3974.xls
+2025-02-02 13:03:51,313 - processor - INFO - No available results in downloaded_files\hsa-miR-1207-3p.xls
+2025-02-02 13:03:51,313 - processor - INFO - Starting processing of hsa-miR-497-3p.xls
+2025-02-02 13:03:51,314 - processor - INFO - Starting processing of hsa-miR-3934-3p.xls
+2025-02-02 13:03:51,314 - processor - INFO - Reading file: downloaded_files\hsa-miR-497-3p.xls
+2025-02-02 13:03:51,315 - processor - INFO - Reading file: downloaded_files\hsa-miR-3934-3p.xls
+2025-02-02 13:03:51,316 - processor - INFO - No available results in downloaded_files\hsa-miR-497-3p.xls
+2025-02-02 13:03:51,316 - processor - INFO - No available results in downloaded_files\hsa-miR-3934-3p.xls
+2025-02-02 13:03:51,317 - processor - INFO - Starting processing of hsa-miR-6854-5p.xls
+2025-02-02 13:03:51,318 - processor - INFO - Starting processing of hsa-miR-3942-3p.xls
+2025-02-02 13:03:51,318 - processor - INFO - Reading file: downloaded_files\hsa-miR-6854-5p.xls
+2025-02-02 13:03:51,319 - processor - INFO - Reading file: downloaded_files\hsa-miR-3942-3p.xls
+2025-02-02 13:03:51,320 - processor - INFO - No available results in downloaded_files\hsa-miR-3942-3p.xls
+2025-02-02 13:03:51,321 - processor - INFO - No available results in downloaded_files\hsa-miR-6854-5p.xls
+2025-02-02 13:03:51,322 - processor - INFO - Successfully processed downloaded_files\hsa-miR-525-5p.xls
+2025-02-02 13:03:51,322 - processor - INFO - Starting processing of hsa-miR-7977.xls
+2025-02-02 13:03:51,323 - processor - INFO - Successfully processed downloaded_files\hsa-miR-520a-5p.xls
+2025-02-02 13:03:51,324 - processor - INFO - Starting processing of hsa-miR-4469.xls
+2025-02-02 13:03:51,324 - processor - INFO - Successfully extracted data from hsa-miR-525-5p.xls
+2025-02-02 13:03:51,324 - processor - INFO - Reading file: downloaded_files\hsa-miR-7977.xls
+2025-02-02 13:03:51,325 - processor - INFO - Reading file: downloaded_files\hsa-miR-4469.xls
+2025-02-02 13:03:51,326 - processor - INFO - Successfully extracted data from hsa-miR-520a-5p.xls
+2025-02-02 13:03:51,326 - processor - INFO - Starting processing of hsa-miR-5701.xls
+2025-02-02 13:03:51,326 - processor - INFO - Starting processing of hsa-miR-3913-3p.xls
+2025-02-02 13:03:51,327 - processor - INFO - Reading file: downloaded_files\hsa-miR-5701.xls
+2025-02-02 13:03:51,327 - processor - INFO - Reading file: downloaded_files\hsa-miR-3913-3p.xls
+2025-02-02 13:03:51,327 - processor - INFO - No available results in downloaded_files\hsa-miR-4469.xls
+2025-02-02 13:03:51,327 - processor - INFO - No available results in downloaded_files\hsa-miR-7977.xls
+2025-02-02 13:03:51,328 - processor - INFO - Starting processing of hsa-miR-223-5p.xls
+2025-02-02 13:03:51,329 - processor - INFO - No available results in downloaded_files\hsa-miR-5701.xls
+2025-02-02 13:03:51,329 - processor - INFO - Starting processing of hsa-miR-4789-3p.xls
+2025-02-02 13:03:51,329 - processor - INFO - No available results in downloaded_files\hsa-miR-3913-3p.xls
+2025-02-02 13:03:51,329 - processor - INFO - Reading file: downloaded_files\hsa-miR-223-5p.xls
+2025-02-02 13:03:51,330 - processor - INFO - Starting processing of hsa-miR-3670.xls
+2025-02-02 13:03:51,330 - processor - INFO - Reading file: downloaded_files\hsa-miR-4789-3p.xls
+2025-02-02 13:03:51,330 - processor - INFO - Starting processing of hsa-miR-96-3p.xls
+2025-02-02 13:03:51,331 - processor - INFO - Reading file: downloaded_files\hsa-miR-3670.xls
+2025-02-02 13:03:51,331 - processor - INFO - Reading file: downloaded_files\hsa-miR-96-3p.xls
+2025-02-02 13:03:51,331 - processor - INFO - No available results in downloaded_files\hsa-miR-223-5p.xls
+2025-02-02 13:03:51,332 - processor - INFO - No available results in downloaded_files\hsa-miR-4789-3p.xls
+2025-02-02 13:03:51,332 - processor - INFO - Starting processing of hsa-miR-6841-3p.xls
+2025-02-02 13:03:51,333 - processor - INFO - No available results in downloaded_files\hsa-miR-96-3p.xls
+2025-02-02 13:03:51,333 - processor - INFO - No available results in downloaded_files\hsa-miR-3670.xls
+2025-02-02 13:03:51,333 - processor - INFO - Starting processing of hsa-miR-2681-3p.xls
+2025-02-02 13:03:51,333 - processor - INFO - Reading file: downloaded_files\hsa-miR-6841-3p.xls
+2025-02-02 13:03:51,334 - processor - INFO - Starting processing of hsa-miR-4276.xls
+2025-02-02 13:03:51,335 - processor - INFO - Reading file: downloaded_files\hsa-miR-2681-3p.xls
+2025-02-02 13:03:51,336 - processor - INFO - Reading file: downloaded_files\hsa-miR-4276.xls
+2025-02-02 13:03:51,337 - processor - INFO - Successfully processed downloaded_files\hsa-miR-2681-3p.xls
+2025-02-02 13:03:51,337 - processor - INFO - No available results in downloaded_files\hsa-miR-6841-3p.xls
+2025-02-02 13:03:51,338 - processor - INFO - No available results in downloaded_files\hsa-miR-4276.xls
+2025-02-02 13:03:51,338 - processor - INFO - Successfully extracted data from hsa-miR-2681-3p.xls
+2025-02-02 13:04:30,289 - processor - INFO - Starting processing of hsa-miR-4659a-5p.xls
+2025-02-02 13:04:30,290 - processor - INFO - Starting processing of hsa-miR-4708-5p.xls
+2025-02-02 13:04:30,291 - processor - INFO - Reading file: downloaded_files\hsa-miR-4659a-5p.xls
+2025-02-02 13:04:30,291 - processor - INFO - Starting processing of hsa-miR-4804-3p.xls
+2025-02-02 13:04:30,292 - processor - INFO - Starting processing of hsa-miR-4659b-5p.xls
+2025-02-02 13:04:30,293 - processor - INFO - Reading file: downloaded_files\hsa-miR-4708-5p.xls
+2025-02-02 13:04:30,295 - processor - INFO - Reading file: downloaded_files\hsa-miR-4804-3p.xls
+2025-02-02 13:04:30,295 - processor - INFO - Reading file: downloaded_files\hsa-miR-4659b-5p.xls
+2025-02-02 13:04:30,296 - processor - INFO - No available results in downloaded_files\hsa-miR-4659a-5p.xls
+2025-02-02 13:04:30,301 - processor - INFO - Starting processing of hsa-miR-4661-3p.xls
+2025-02-02 13:04:30,301 - processor - INFO - No available results in downloaded_files\hsa-miR-4708-5p.xls
+2025-02-02 13:04:30,302 - processor - INFO - No available results in downloaded_files\hsa-miR-4659b-5p.xls
+2025-02-02 13:04:30,302 - processor - INFO - Reading file: downloaded_files\hsa-miR-4661-3p.xls
+2025-02-02 13:04:30,302 - processor - INFO - No available results in downloaded_files\hsa-miR-4804-3p.xls
+2025-02-02 13:04:30,305 - processor - INFO - Starting processing of hsa-miR-4802-5p.xls
+2025-02-02 13:04:30,307 - processor - INFO - Starting processing of hsa-miR-5683.xls
+2025-02-02 13:04:30,309 - processor - INFO - Starting processing of hsa-miR-6894-5p.xls
+2025-02-02 13:04:30,310 - processor - INFO - Reading file: downloaded_files\hsa-miR-4802-5p.xls
+2025-02-02 13:04:30,310 - processor - INFO - No available results in downloaded_files\hsa-miR-4661-3p.xls
+2025-02-02 13:04:30,310 - processor - INFO - Reading file: downloaded_files\hsa-miR-5683.xls
+2025-02-02 13:04:30,311 - processor - INFO - Reading file: downloaded_files\hsa-miR-6894-5p.xls
+2025-02-02 13:04:30,313 - processor - INFO - Starting processing of hsa-miR-5690.xls
+2025-02-02 13:04:30,314 - processor - INFO - No available results in downloaded_files\hsa-miR-4802-5p.xls
+2025-02-02 13:04:30,315 - processor - INFO - Reading file: downloaded_files\hsa-miR-5690.xls
+2025-02-02 13:04:30,316 - processor - INFO - Starting processing of hsa-miR-7154-3p.xls
+2025-02-02 13:04:30,316 - processor - INFO - No available results in downloaded_files\hsa-miR-5683.xls
+2025-02-02 13:04:30,317 - processor - INFO - No available results in downloaded_files\hsa-miR-6894-5p.xls
+2025-02-02 13:04:30,317 - processor - INFO - Reading file: downloaded_files\hsa-miR-7154-3p.xls
+2025-02-02 13:04:30,319 - processor - INFO - Starting processing of hsa-miR-3978.xls
+2025-02-02 13:04:30,320 - processor - INFO - No available results in downloaded_files\hsa-miR-5690.xls
+2025-02-02 13:04:30,320 - processor - INFO - Starting processing of hsa-miR-5093.xls
+2025-02-02 13:04:30,321 - processor - INFO - Reading file: downloaded_files\hsa-miR-3978.xls
+2025-02-02 13:04:30,322 - processor - INFO - Starting processing of hsa-miR-3926.xls
+2025-02-02 13:04:30,323 - processor - INFO - Reading file: downloaded_files\hsa-miR-5093.xls
+2025-02-02 13:04:30,323 - processor - INFO - No available results in downloaded_files\hsa-miR-7154-3p.xls
+2025-02-02 13:04:30,323 - processor - INFO - Reading file: downloaded_files\hsa-miR-3926.xls
+2025-02-02 13:04:30,325 - processor - INFO - Starting processing of hsa-miR-8075.xls
+2025-02-02 13:04:30,325 - processor - INFO - No available results in downloaded_files\hsa-miR-3978.xls
+2025-02-02 13:04:30,325 - processor - INFO - No available results in downloaded_files\hsa-miR-5093.xls
+2025-02-02 13:04:30,326 - processor - INFO - Reading file: downloaded_files\hsa-miR-8075.xls
+2025-02-02 13:04:30,326 - processor - INFO - No available results in downloaded_files\hsa-miR-3926.xls
+2025-02-02 13:04:30,327 - processor - INFO - Starting processing of hsa-miR-8069.xls
+2025-02-02 13:04:30,328 - processor - INFO - Starting processing of hsa-miR-7154-5p.xls
+2025-02-02 13:04:30,329 - processor - INFO - Starting processing of hsa-miR-5681b.xls
+2025-02-02 13:04:30,329 - processor - INFO - Reading file: downloaded_files\hsa-miR-8069.xls
+2025-02-02 13:04:30,329 - processor - INFO - Reading file: downloaded_files\hsa-miR-7154-5p.xls
+2025-02-02 13:04:30,329 - processor - INFO - No available results in downloaded_files\hsa-miR-8075.xls
+2025-02-02 13:04:30,329 - processor - INFO - Reading file: downloaded_files\hsa-miR-5681b.xls
+2025-02-02 13:04:30,331 - processor - INFO - Starting processing of hsa-miR-3120-5p.xls
+2025-02-02 13:04:30,331 - processor - INFO - No available results in downloaded_files\hsa-miR-7154-5p.xls
+2025-02-02 13:04:30,331 - processor - INFO - No available results in downloaded_files\hsa-miR-8069.xls
+2025-02-02 13:04:30,331 - processor - INFO - Reading file: downloaded_files\hsa-miR-3120-5p.xls
+2025-02-02 13:04:30,332 - processor - INFO - Starting processing of hsa-miR-1261.xls
+2025-02-02 13:04:30,333 - processor - INFO - Reading file: downloaded_files\hsa-miR-1261.xls
+2025-02-02 13:04:30,333 - processor - INFO - Starting processing of hsa-miR-640.xls
+2025-02-02 13:04:30,333 - processor - INFO - No available results in downloaded_files\hsa-miR-5681b.xls
+2025-02-02 13:04:30,334 - processor - INFO - Reading file: downloaded_files\hsa-miR-640.xls
+2025-02-02 13:04:30,334 - processor - INFO - No available results in downloaded_files\hsa-miR-3120-5p.xls
+2025-02-02 13:04:30,334 - processor - INFO - No available results in downloaded_files\hsa-miR-1261.xls
+2025-02-02 13:04:30,335 - processor - INFO - Starting processing of hsa-miR-4468.xls
+2025-02-02 13:04:30,336 - processor - INFO - Starting processing of hsa-miR-4743-3p.xls
+2025-02-02 13:04:30,336 - processor - INFO - Reading file: downloaded_files\hsa-miR-4468.xls
+2025-02-02 13:04:30,337 - processor - INFO - Starting processing of hsa-miR-4753-3p.xls
+2025-02-02 13:04:30,337 - processor - INFO - Reading file: downloaded_files\hsa-miR-4753-3p.xls
+2025-02-02 13:04:30,337 - processor - INFO - Reading file: downloaded_files\hsa-miR-4743-3p.xls
+2025-02-02 13:04:30,337 - processor - INFO - No available results in downloaded_files\hsa-miR-640.xls
+2025-02-02 13:04:30,338 - processor - INFO - Starting processing of hsa-miR-556-3p.xls
+2025-02-02 13:04:30,339 - processor - INFO - No available results in downloaded_files\hsa-miR-4753-3p.xls
+2025-02-02 13:04:30,339 - processor - INFO - No available results in downloaded_files\hsa-miR-4468.xls
+2025-02-02 13:04:30,339 - processor - INFO - No available results in downloaded_files\hsa-miR-4743-3p.xls
+2025-02-02 13:04:30,339 - processor - INFO - Reading file: downloaded_files\hsa-miR-556-3p.xls
+2025-02-02 13:04:30,339 - processor - INFO - Starting processing of hsa-miR-4457.xls
+2025-02-02 13:04:30,340 - processor - INFO - Starting processing of hsa-miR-487a-5p.xls
+2025-02-02 13:04:30,340 - processor - INFO - Starting processing of hsa-miR-302f.xls
+2025-02-02 13:04:30,341 - processor - INFO - Reading file: downloaded_files\hsa-miR-4457.xls
+2025-02-02 13:04:30,341 - processor - INFO - Reading file: downloaded_files\hsa-miR-487a-5p.xls
+2025-02-02 13:04:30,341 - processor - INFO - Reading file: downloaded_files\hsa-miR-302f.xls
+2025-02-02 13:04:30,342 - processor - INFO - No available results in downloaded_files\hsa-miR-487a-5p.xls
+2025-02-02 13:04:30,342 - processor - INFO - No available results in downloaded_files\hsa-miR-302f.xls
+2025-02-02 13:04:30,343 - processor - INFO - No available results in downloaded_files\hsa-miR-4457.xls
+2025-02-02 13:04:30,343 - processor - INFO - Successfully processed downloaded_files\hsa-miR-556-3p.xls
+2025-02-02 13:04:30,343 - processor - INFO - Starting processing of hsa-miR-487b-5p.xls
+2025-02-02 13:04:30,344 - processor - INFO - Starting processing of hsa-miR-6516-3p.xls
+2025-02-02 13:04:30,344 - processor - INFO - Starting processing of hsa-miR-8081.xls
+2025-02-02 13:04:30,345 - processor - INFO - Successfully extracted data from hsa-miR-556-3p.xls
+2025-02-02 13:04:30,345 - processor - INFO - Reading file: downloaded_files\hsa-miR-487b-5p.xls
+2025-02-02 13:04:30,346 - processor - INFO - Reading file: downloaded_files\hsa-miR-6516-3p.xls
+2025-02-02 13:04:30,346 - processor - INFO - Reading file: downloaded_files\hsa-miR-8081.xls
+2025-02-02 13:04:30,346 - processor - INFO - Starting processing of hsa-miR-4790-3p.xls
+2025-02-02 13:04:30,347 - processor - INFO - Reading file: downloaded_files\hsa-miR-4790-3p.xls
+2025-02-02 13:04:30,347 - processor - INFO - No available results in downloaded_files\hsa-miR-8081.xls
+2025-02-02 13:04:30,348 - processor - INFO - No available results in downloaded_files\hsa-miR-4790-3p.xls
+2025-02-02 13:04:30,348 - processor - INFO - Starting processing of hsa-miR-205-3p.xls
+2025-02-02 13:04:30,348 - processor - INFO - No available results in downloaded_files\hsa-miR-487b-5p.xls
+2025-02-02 13:04:30,348 - processor - INFO - No available results in downloaded_files\hsa-miR-6516-3p.xls
+2025-02-02 13:04:30,349 - processor - INFO - Starting processing of hsa-miR-6830-5p.xls
+2025-02-02 13:04:30,349 - processor - INFO - Reading file: downloaded_files\hsa-miR-205-3p.xls
+2025-02-02 13:04:30,350 - processor - INFO - Starting processing of hsa-miR-4646-3p.xls
+2025-02-02 13:04:30,350 - processor - INFO - Starting processing of hsa-miR-1233-5p.xls
+2025-02-02 13:04:30,350 - processor - INFO - Reading file: downloaded_files\hsa-miR-6830-5p.xls
+2025-02-02 13:04:30,351 - processor - INFO - Reading file: downloaded_files\hsa-miR-4646-3p.xls
+2025-02-02 13:04:30,351 - processor - INFO - Reading file: downloaded_files\hsa-miR-1233-5p.xls
+2025-02-02 13:04:30,352 - processor - INFO - No available results in downloaded_files\hsa-miR-6830-5p.xls
+2025-02-02 13:04:30,352 - processor - INFO - No available results in downloaded_files\hsa-miR-4646-3p.xls
+2025-02-02 13:04:30,352 - processor - INFO - No available results in downloaded_files\hsa-miR-205-3p.xls
+2025-02-02 13:04:30,352 - processor - INFO - Starting processing of hsa-miR-6778-5p.xls
+2025-02-02 13:04:30,353 - processor - INFO - Starting processing of hsa-miR-6727-3p.xls
+2025-02-02 13:04:30,353 - processor - INFO - No available results in downloaded_files\hsa-miR-1233-5p.xls
+2025-02-02 13:04:30,354 - processor - INFO - Starting processing of hsa-miR-4704-5p.xls
+2025-02-02 13:04:30,354 - processor - INFO - Reading file: downloaded_files\hsa-miR-6778-5p.xls
+2025-02-02 13:04:30,354 - processor - INFO - Reading file: downloaded_files\hsa-miR-6727-3p.xls
+2025-02-02 13:04:30,354 - processor - INFO - Starting processing of hsa-miR-6868-5p.xls
+2025-02-02 13:04:30,355 - processor - INFO - Reading file: downloaded_files\hsa-miR-4704-5p.xls
+2025-02-02 13:04:30,355 - processor - INFO - Reading file: downloaded_files\hsa-miR-6868-5p.xls
+2025-02-02 13:04:30,356 - processor - INFO - No available results in downloaded_files\hsa-miR-6727-3p.xls
+2025-02-02 13:04:30,356 - processor - INFO - No available results in downloaded_files\hsa-miR-4704-5p.xls
+2025-02-02 13:04:30,356 - processor - INFO - Starting processing of hsa-miR-6779-3p.xls
+2025-02-02 13:04:30,356 - processor - INFO - No available results in downloaded_files\hsa-miR-6868-5p.xls
+2025-02-02 13:04:30,356 - processor - INFO - No available results in downloaded_files\hsa-miR-6778-5p.xls
+2025-02-02 13:04:30,357 - processor - INFO - Starting processing of hsa-miR-4687-5p.xls
+2025-02-02 13:04:30,357 - processor - INFO - Reading file: downloaded_files\hsa-miR-6779-3p.xls
+2025-02-02 13:04:30,358 - processor - INFO - Starting processing of hsa-miR-6853-5p.xls
+2025-02-02 13:04:30,358 - processor - INFO - Starting processing of hsa-miR-4475.xls
+2025-02-02 13:04:30,358 - processor - INFO - Reading file: downloaded_files\hsa-miR-4687-5p.xls
+2025-02-02 13:04:30,359 - processor - INFO - Reading file: downloaded_files\hsa-miR-6853-5p.xls
+2025-02-02 13:04:30,359 - processor - INFO - Reading file: downloaded_files\hsa-miR-4475.xls
+2025-02-02 13:04:30,360 - processor - INFO - No available results in downloaded_files\hsa-miR-4687-5p.xls
+2025-02-02 13:04:30,360 - processor - INFO - No available results in downloaded_files\hsa-miR-6853-5p.xls
+2025-02-02 13:04:30,360 - processor - INFO - No available results in downloaded_files\hsa-miR-6779-3p.xls
+2025-02-02 13:04:30,360 - processor - INFO - Starting processing of hsa-miR-6775-3p.xls
+2025-02-02 13:04:30,361 - processor - INFO - No available results in downloaded_files\hsa-miR-4475.xls
+2025-02-02 13:04:30,361 - processor - INFO - Starting processing of hsa-miR-3918.xls
+2025-02-02 13:04:30,362 - processor - INFO - Starting processing of hsa-miR-4640-5p.xls
+2025-02-02 13:04:30,362 - processor - INFO - Reading file: downloaded_files\hsa-miR-6775-3p.xls
+2025-02-02 13:04:30,363 - processor - INFO - Starting processing of hsa-miR-4637.xls
+2025-02-02 13:04:30,363 - processor - INFO - Reading file: downloaded_files\hsa-miR-3918.xls
+2025-02-02 13:04:30,363 - processor - INFO - Reading file: downloaded_files\hsa-miR-4640-5p.xls
+2025-02-02 13:04:30,363 - processor - INFO - Reading file: downloaded_files\hsa-miR-4637.xls
+2025-02-02 13:04:30,365 - processor - INFO - Successfully processed downloaded_files\hsa-miR-4637.xls
+2025-02-02 13:04:30,365 - processor - INFO - No available results in downloaded_files\hsa-miR-6775-3p.xls
+2025-02-02 13:04:30,366 - processor - INFO - Successfully extracted data from hsa-miR-4637.xls
+2025-02-02 13:04:30,367 - processor - INFO - Starting processing of hsa-miR-4722-3p.xls
+2025-02-02 13:04:30,367 - processor - INFO - Starting processing of hsa-miR-4712-3p.xls
+2025-02-02 13:04:30,367 - processor - INFO - Reading file: downloaded_files\hsa-miR-4722-3p.xls
+2025-02-02 13:04:30,367 - processor - INFO - Reading file: downloaded_files\hsa-miR-4712-3p.xls
+2025-02-02 13:04:30,369 - processor - INFO - No available results in downloaded_files\hsa-miR-4722-3p.xls
+2025-02-02 13:04:30,369 - processor - INFO - Starting processing of hsa-miR-6807-3p.xls
+2025-02-02 13:04:30,369 - processor - INFO - Reading file: downloaded_files\hsa-miR-6807-3p.xls
+2025-02-02 13:04:30,370 - processor - INFO - No available results in downloaded_files\hsa-miR-4712-3p.xls
+2025-02-02 13:04:30,372 - processor - INFO - Successfully processed downloaded_files\hsa-miR-6807-3p.xls
+2025-02-02 13:04:30,373 - processor - INFO - Successfully extracted data from hsa-miR-6807-3p.xls
+2025-02-02 13:04:30,379 - processor - INFO - Successfully processed downloaded_files\hsa-miR-4640-5p.xls
+2025-02-02 13:04:30,379 - processor - INFO - Successfully processed downloaded_files\hsa-miR-3918.xls
+2025-02-02 13:04:30,380 - processor - INFO - Successfully extracted data from hsa-miR-4640-5p.xls
+2025-02-02 13:04:30,381 - processor - INFO - Successfully extracted data from hsa-miR-3918.xls
+2025-02-02 13:04:59,281 - processor - INFO - Starting processing of hsa-miR-4445-3p.xls
+2025-02-02 13:04:59,281 - processor - INFO - Reading file: downloaded_files\hsa-miR-4445-3p.xls
+2025-02-02 13:04:59,282 - processor - INFO - Starting processing of hsa-miR-6507-3p.xls
+2025-02-02 13:04:59,282 - processor - INFO - Starting processing of hsa-miR-6501-3p.xls
+2025-02-02 13:04:59,283 - processor - INFO - Starting processing of hsa-miR-548al.xls
+2025-02-02 13:04:59,284 - processor - INFO - Reading file: downloaded_files\hsa-miR-6507-3p.xls
+2025-02-02 13:04:59,284 - processor - INFO - No available results in downloaded_files\hsa-miR-4445-3p.xls
+2025-02-02 13:04:59,284 - processor - INFO - Reading file: downloaded_files\hsa-miR-6501-3p.xls
+2025-02-02 13:04:59,285 - processor - INFO - Reading file: downloaded_files\hsa-miR-548al.xls
+2025-02-02 13:04:59,286 - processor - INFO - Starting processing of hsa-miR-4726-5p.xls
+2025-02-02 13:04:59,287 - processor - INFO - No available results in downloaded_files\hsa-miR-6507-3p.xls
+2025-02-02 13:04:59,288 - processor - INFO - Reading file: downloaded_files\hsa-miR-4726-5p.xls
+2025-02-02 13:04:59,290 - processor - INFO - Starting processing of hsa-miR-6895-5p.xls
+2025-02-02 13:04:59,290 - processor - INFO - No available results in downloaded_files\hsa-miR-6501-3p.xls
+2025-02-02 13:04:59,290 - processor - INFO - No available results in downloaded_files\hsa-miR-548al.xls
+2025-02-02 13:04:59,291 - processor - INFO - Reading file: downloaded_files\hsa-miR-6895-5p.xls
+2025-02-02 13:04:59,291 - processor - INFO - Starting processing of hsa-miR-8057.xls
+2025-02-02 13:04:59,292 - processor - INFO - Starting processing of hsa-miR-6815-5p.xls
+2025-02-02 13:04:59,292 - processor - INFO - Reading file: downloaded_files\hsa-miR-8057.xls
+2025-02-02 13:04:59,292 - processor - INFO - Reading file: downloaded_files\hsa-miR-6815-5p.xls
+2025-02-02 13:04:59,294 - processor - INFO - No available results in downloaded_files\hsa-miR-6815-5p.xls
+2025-02-02 13:04:59,294 - processor - INFO - No available results in downloaded_files\hsa-miR-6895-5p.xls
+2025-02-02 13:04:59,294 - processor - INFO - Starting processing of hsa-miR-323b-3p.xls
+2025-02-02 13:04:59,295 - processor - INFO - No available results in downloaded_files\hsa-miR-8057.xls
+2025-02-02 13:04:59,295 - processor - INFO - Starting processing of hsa-miR-6865-5p.xls
+2025-02-02 13:04:59,295 - processor - INFO - Reading file: downloaded_files\hsa-miR-323b-3p.xls
+2025-02-02 13:04:59,296 - processor - INFO - Starting processing of hsa-miR-5703.xls
+2025-02-02 13:04:59,296 - processor - INFO - Reading file: downloaded_files\hsa-miR-6865-5p.xls
+2025-02-02 13:04:59,296 - processor - INFO - Reading file: downloaded_files\hsa-miR-5703.xls
+2025-02-02 13:04:59,297 - processor - INFO - No available results in downloaded_files\hsa-miR-6865-5p.xls
+2025-02-02 13:04:59,297 - processor - INFO - No available results in downloaded_files\hsa-miR-5703.xls
+2025-02-02 13:04:59,298 - processor - INFO - Starting processing of hsa-miR-4434.xls
+2025-02-02 13:04:59,299 - processor - INFO - Successfully processed downloaded_files\hsa-miR-323b-3p.xls
+2025-02-02 13:04:59,299 - processor - INFO - Starting processing of hsa-miR-4481.xls
+2025-02-02 13:04:59,299 - processor - INFO - Reading file: downloaded_files\hsa-miR-4434.xls
+2025-02-02 13:04:59,300 - processor - INFO - Successfully extracted data from hsa-miR-323b-3p.xls
+2025-02-02 13:04:59,300 - processor - INFO - Reading file: downloaded_files\hsa-miR-4481.xls
+2025-02-02 13:04:59,300 - processor - INFO - Starting processing of hsa-miR-3688-3p.xls
+2025-02-02 13:04:59,301 - processor - INFO - Reading file: downloaded_files\hsa-miR-3688-3p.xls
+2025-02-02 13:04:59,301 - processor - INFO - No available results in downloaded_files\hsa-miR-4434.xls
+2025-02-02 13:04:59,301 - processor - INFO - No available results in downloaded_files\hsa-miR-3688-3p.xls
+2025-02-02 13:04:59,302 - processor - INFO - Starting processing of hsa-miR-891b.xls
+2025-02-02 13:04:59,302 - processor - INFO - No available results in downloaded_files\hsa-miR-4481.xls
+2025-02-02 13:04:59,302 - processor - INFO - Starting processing of hsa-miR-598-5p.xls
+2025-02-02 13:04:59,302 - processor - INFO - Reading file: downloaded_files\hsa-miR-891b.xls
+2025-02-02 13:04:59,303 - processor - INFO - Starting processing of hsa-miR-6888-5p.xls
+2025-02-02 13:04:59,303 - processor - INFO - Reading file: downloaded_files\hsa-miR-598-5p.xls
+2025-02-02 13:04:59,303 - processor - INFO - Reading file: downloaded_files\hsa-miR-6888-5p.xls
+2025-02-02 13:04:59,305 - processor - INFO - No available results in downloaded_files\hsa-miR-6888-5p.xls
+2025-02-02 13:04:59,305 - processor - INFO - No available results in downloaded_files\hsa-miR-891b.xls
+2025-02-02 13:04:59,305 - processor - INFO - No available results in downloaded_files\hsa-miR-598-5p.xls
+2025-02-02 13:04:59,306 - processor - INFO - Starting processing of hsa-miR-5585-5p.xls
+2025-02-02 13:04:59,307 - processor - INFO - Starting processing of hsa-miR-3179.xls
+2025-02-02 13:04:59,307 - processor - INFO - Starting processing of hsa-miR-4639-3p.xls
+2025-02-02 13:04:59,307 - processor - INFO - Reading file: downloaded_files\hsa-miR-5585-5p.xls
+2025-02-02 13:04:59,308 - processor - INFO - Reading file: downloaded_files\hsa-miR-3179.xls
+2025-02-02 13:04:59,308 - processor - INFO - Reading file: downloaded_files\hsa-miR-4639-3p.xls
+2025-02-02 13:04:59,309 - processor - INFO - No available results in downloaded_files\hsa-miR-4639-3p.xls
+2025-02-02 13:04:59,309 - processor - INFO - Starting processing of hsa-miR-1255a.xls
+2025-02-02 13:04:59,310 - processor - INFO - Reading file: downloaded_files\hsa-miR-1255a.xls
+2025-02-02 13:04:59,310 - processor - INFO - No available results in downloaded_files\hsa-miR-5585-5p.xls
+2025-02-02 13:04:59,310 - processor - INFO - Starting processing of hsa-miR-6810-5p.xls
+2025-02-02 13:04:59,311 - processor - INFO - No available results in downloaded_files\hsa-miR-1255a.xls
+2025-02-02 13:04:59,311 - processor - INFO - Successfully processed downloaded_files\hsa-miR-4726-5p.xls
+2025-02-02 13:04:59,311 - processor - INFO - Reading file: downloaded_files\hsa-miR-6810-5p.xls
+2025-02-02 13:04:59,312 - processor - INFO - Starting processing of hsa-miR-4740-5p.xls
+2025-02-02 13:04:59,313 - processor - INFO - Successfully extracted data from hsa-miR-4726-5p.xls
+2025-02-02 13:04:59,313 - processor - INFO - Reading file: downloaded_files\hsa-miR-4740-5p.xls
+2025-02-02 13:04:59,313 - processor - INFO - Starting processing of hsa-miR-4700-3p.xls
+2025-02-02 13:04:59,314 - processor - INFO - Reading file: downloaded_files\hsa-miR-4700-3p.xls
+2025-02-02 13:04:59,314 - processor - INFO - No available results in downloaded_files\hsa-miR-6810-5p.xls
+2025-02-02 13:04:59,315 - processor - INFO - Starting processing of hsa-miR-1255b-5p.xls
+2025-02-02 13:04:59,315 - processor - INFO - No available results in downloaded_files\hsa-miR-4740-5p.xls
+2025-02-02 13:04:59,315 - processor - INFO - No available results in downloaded_files\hsa-miR-4700-3p.xls
+2025-02-02 13:04:59,315 - processor - INFO - Reading file: downloaded_files\hsa-miR-1255b-5p.xls
+2025-02-02 13:04:59,315 - processor - INFO - Starting processing of hsa-miR-6789-5p.xls
+2025-02-02 13:04:59,316 - processor - INFO - Starting processing of hsa-miR-4688.xls
+2025-02-02 13:04:59,316 - processor - INFO - Reading file: downloaded_files\hsa-miR-6789-5p.xls
+2025-02-02 13:04:59,316 - processor - INFO - Reading file: downloaded_files\hsa-miR-4688.xls
+2025-02-02 13:04:59,317 - processor - INFO - No available results in downloaded_files\hsa-miR-6789-5p.xls
+2025-02-02 13:04:59,317 - processor - INFO - No available results in downloaded_files\hsa-miR-4688.xls
+2025-02-02 13:04:59,318 - processor - INFO - No available results in downloaded_files\hsa-miR-1255b-5p.xls
+2025-02-02 13:04:59,318 - processor - INFO - Starting processing of hsa-miR-5004-3p.xls
+2025-02-02 13:04:59,318 - processor - INFO - Starting processing of hsa-miR-539-3p.xls
+2025-02-02 13:04:59,319 - processor - INFO - Starting processing of hsa-miR-6743-5p.xls
+2025-02-02 13:04:59,319 - processor - INFO - Reading file: downloaded_files\hsa-miR-5004-3p.xls
+2025-02-02 13:04:59,319 - processor - INFO - Reading file: downloaded_files\hsa-miR-539-3p.xls
+2025-02-02 13:04:59,319 - processor - INFO - Reading file: downloaded_files\hsa-miR-6743-5p.xls
+2025-02-02 13:04:59,320 - processor - INFO - No available results in downloaded_files\hsa-miR-6743-5p.xls
+2025-02-02 13:04:59,321 - processor - INFO - Successfully processed downloaded_files\hsa-miR-3179.xls
+2025-02-02 13:04:59,322 - processor - INFO - No available results in downloaded_files\hsa-miR-5004-3p.xls
+2025-02-02 13:04:59,322 - processor - INFO - Starting processing of hsa-miR-6514-5p.xls
+2025-02-02 13:04:59,323 - processor - INFO - Successfully extracted data from hsa-miR-3179.xls
+2025-02-02 13:04:59,323 - processor - INFO - Starting processing of hsa-miR-4292.xls
+2025-02-02 13:04:59,323 - processor - INFO - Reading file: downloaded_files\hsa-miR-6514-5p.xls
+2025-02-02 13:04:59,323 - processor - INFO - Starting processing of hsa-miR-1537-5p.xls
+2025-02-02 13:04:59,324 - processor - INFO - Reading file: downloaded_files\hsa-miR-4292.xls
+2025-02-02 13:04:59,324 - processor - INFO - Reading file: downloaded_files\hsa-miR-1537-5p.xls
+2025-02-02 13:04:59,325 - processor - INFO - No available results in downloaded_files\hsa-miR-4292.xls
+2025-02-02 13:04:59,325 - processor - INFO - No available results in downloaded_files\hsa-miR-1537-5p.xls
+2025-02-02 13:04:59,325 - processor - INFO - Starting processing of hsa-miR-6791-5p.xls
+2025-02-02 13:04:59,326 - processor - INFO - No available results in downloaded_files\hsa-miR-6514-5p.xls
+2025-02-02 13:04:59,326 - processor - INFO - Starting processing of hsa-miR-4291.xls
+2025-02-02 13:04:59,326 - processor - INFO - Reading file: downloaded_files\hsa-miR-6791-5p.xls
+2025-02-02 13:04:59,327 - processor - INFO - Starting processing of hsa-miR-1-5p.xls
+2025-02-02 13:04:59,327 - processor - INFO - Reading file: downloaded_files\hsa-miR-4291.xls
+2025-02-02 13:04:59,327 - processor - INFO - Reading file: downloaded_files\hsa-miR-1-5p.xls
+2025-02-02 13:04:59,328 - processor - INFO - No available results in downloaded_files\hsa-miR-6791-5p.xls
+2025-02-02 13:04:59,328 - processor - INFO - No available results in downloaded_files\hsa-miR-1-5p.xls
+2025-02-02 13:04:59,328 - processor - INFO - Starting processing of hsa-miR-4714-3p.xls
+2025-02-02 13:04:59,329 - processor - INFO - No available results in downloaded_files\hsa-miR-4291.xls
+2025-02-02 13:04:59,329 - processor - INFO - Starting processing of hsa-miR-4529-3p.xls
+2025-02-02 13:04:59,329 - processor - INFO - Reading file: downloaded_files\hsa-miR-4714-3p.xls
+2025-02-02 13:04:59,330 - processor - INFO - Starting processing of hsa-miR-1269a.xls
+2025-02-02 13:04:59,330 - processor - INFO - Reading file: downloaded_files\hsa-miR-4529-3p.xls
+2025-02-02 13:04:59,330 - processor - INFO - Reading file: downloaded_files\hsa-miR-1269a.xls
+2025-02-02 13:04:59,331 - processor - INFO - No available results in downloaded_files\hsa-miR-4714-3p.xls
+2025-02-02 13:04:59,331 - processor - INFO - No available results in downloaded_files\hsa-miR-4529-3p.xls
+2025-02-02 13:04:59,331 - processor - INFO - Starting processing of hsa-miR-4520-2-3p.xls
+2025-02-02 13:04:59,332 - processor - INFO - Successfully processed downloaded_files\hsa-miR-1269a.xls
+2025-02-02 13:04:59,332 - processor - INFO - Starting processing of hsa-miR-7850-5p.xls
+2025-02-02 13:04:59,332 - processor - INFO - Reading file: downloaded_files\hsa-miR-4520-2-3p.xls
+2025-02-02 13:04:59,333 - processor - INFO - Successfully extracted data from hsa-miR-1269a.xls
+2025-02-02 13:04:59,333 - processor - INFO - Reading file: downloaded_files\hsa-miR-7850-5p.xls
+2025-02-02 13:04:59,334 - processor - INFO - Successfully processed downloaded_files\hsa-miR-539-3p.xls
+2025-02-02 13:04:59,334 - processor - INFO - Starting processing of hsa-miR-5009-5p.xls
+2025-02-02 13:04:59,335 - processor - INFO - Successfully extracted data from hsa-miR-539-3p.xls
+2025-02-02 13:04:59,336 - processor - INFO - Reading file: downloaded_files\hsa-miR-5009-5p.xls
+2025-02-02 13:04:59,336 - processor - INFO - No available results in downloaded_files\hsa-miR-7850-5p.xls
+2025-02-02 13:04:59,336 - processor - INFO - No available results in downloaded_files\hsa-miR-4520-2-3p.xls
+2025-02-02 13:04:59,336 - processor - INFO - Starting processing of hsa-miR-8058.xls
+2025-02-02 13:04:59,337 - processor - INFO - Starting processing of hsa-miR-4494.xls
+2025-02-02 13:04:59,337 - processor - INFO - No available results in downloaded_files\hsa-miR-5009-5p.xls
+2025-02-02 13:04:59,337 - processor - INFO - Starting processing of hsa-miR-499b-5p.xls
+2025-02-02 13:04:59,337 - processor - INFO - Reading file: downloaded_files\hsa-miR-8058.xls
+2025-02-02 13:04:59,337 - processor - INFO - Reading file: downloaded_files\hsa-miR-4494.xls
+2025-02-02 13:04:59,338 - processor - INFO - Starting processing of hsa-miR-493-5p.xls
+2025-02-02 13:04:59,338 - processor - INFO - Reading file: downloaded_files\hsa-miR-499b-5p.xls
+2025-02-02 13:04:59,339 - processor - INFO - Reading file: downloaded_files\hsa-miR-493-5p.xls
+2025-02-02 13:04:59,339 - processor - INFO - No available results in downloaded_files\hsa-miR-4494.xls
+2025-02-02 13:04:59,340 - processor - INFO - Starting processing of hsa-miR-6499-3p.xls
+2025-02-02 13:04:59,340 - processor - INFO - No available results in downloaded_files\hsa-miR-8058.xls
+2025-02-02 13:04:59,340 - processor - INFO - Reading file: downloaded_files\hsa-miR-6499-3p.xls
+2025-02-02 13:04:59,341 - processor - INFO - Starting processing of hsa-miR-4745-5p.xls
+2025-02-02 13:04:59,341 - processor - INFO - Reading file: downloaded_files\hsa-miR-4745-5p.xls
+2025-02-02 13:04:59,342 - processor - INFO - No available results in downloaded_files\hsa-miR-4745-5p.xls
+2025-02-02 13:04:59,342 - processor - INFO - No available results in downloaded_files\hsa-miR-6499-3p.xls
+2025-02-02 13:04:59,342 - processor - INFO - Starting processing of hsa-miR-4308.xls
+2025-02-02 13:04:59,343 - processor - INFO - Starting processing of hsa-miR-1269b.xls
+2025-02-02 13:04:59,343 - processor - INFO - Reading file: downloaded_files\hsa-miR-4308.xls
+2025-02-02 13:04:59,343 - processor - INFO - Reading file: downloaded_files\hsa-miR-1269b.xls
+2025-02-02 13:04:59,344 - processor - INFO - No available results in downloaded_files\hsa-miR-4308.xls
+2025-02-02 13:04:59,345 - processor - INFO - Successfully processed downloaded_files\hsa-miR-1269b.xls
+2025-02-02 13:04:59,346 - processor - INFO - Successfully extracted data from hsa-miR-1269b.xls
+2025-02-02 13:04:59,352 - processor - INFO - Successfully processed downloaded_files\hsa-miR-493-5p.xls
+2025-02-02 13:04:59,352 - processor - INFO - Successfully processed downloaded_files\hsa-miR-499b-5p.xls
+2025-02-02 13:04:59,353 - processor - INFO - Successfully extracted data from hsa-miR-493-5p.xls
+2025-02-02 13:04:59,354 - processor - INFO - Successfully extracted data from hsa-miR-499b-5p.xls
+2025-02-02 13:05:05,350 - processor - INFO - Starting processing of hsa-miR-4474-3p.xls
+2025-02-02 13:05:05,351 - processor - INFO - Starting processing of hsa-miR-3140-5p.xls
+2025-02-02 13:05:05,351 - processor - INFO - Reading file: downloaded_files\hsa-miR-4474-3p.xls
+2025-02-02 13:05:05,352 - processor - INFO - Starting processing of hsa-miR-4761-5p.xls
+2025-02-02 13:05:05,352 - processor - INFO - Reading file: downloaded_files\hsa-miR-3140-5p.xls
+2025-02-02 13:05:05,352 - processor - INFO - Starting processing of hsa-miR-3667-5p.xls
+2025-02-02 13:05:05,354 - processor - INFO - Reading file: downloaded_files\hsa-miR-4761-5p.xls
+2025-02-02 13:05:05,356 - processor - INFO - Reading file: downloaded_files\hsa-miR-3667-5p.xls
+2025-02-02 13:05:05,356 - processor - INFO - No available results in downloaded_files\hsa-miR-4474-3p.xls
+2025-02-02 13:05:05,357 - processor - INFO - No available results in downloaded_files\hsa-miR-3140-5p.xls
+2025-02-02 13:05:05,358 - processor - INFO - Starting processing of hsa-miR-6758-3p.xls
+2025-02-02 13:05:05,359 - processor - INFO - Starting processing of hsa-miR-627-5p.xls
+2025-02-02 13:05:05,359 - processor - INFO - No available results in downloaded_files\hsa-miR-3667-5p.xls
+2025-02-02 13:05:05,359 - processor - INFO - Reading file: downloaded_files\hsa-miR-6758-3p.xls
+2025-02-02 13:05:05,359 - processor - INFO - Reading file: downloaded_files\hsa-miR-627-5p.xls
+2025-02-02 13:05:05,360 - processor - INFO - Starting processing of hsa-miR-6801-5p.xls
+2025-02-02 13:05:05,360 - processor - INFO - Reading file: downloaded_files\hsa-miR-6801-5p.xls
+2025-02-02 13:05:05,361 - processor - INFO - Successfully processed downloaded_files\hsa-miR-627-5p.xls
+2025-02-02 13:05:05,361 - processor - INFO - No available results in downloaded_files\hsa-miR-6801-5p.xls
+2025-02-02 13:05:05,361 - processor - INFO - No available results in downloaded_files\hsa-miR-6758-3p.xls
+2025-02-02 13:05:05,362 - processor - INFO - Successfully extracted data from hsa-miR-627-5p.xls
+2025-02-02 13:05:05,363 - processor - INFO - Starting processing of hsa-miR-8055.xls
+2025-02-02 13:05:05,363 - processor - INFO - Starting processing of hsa-miR-3605-5p.xls
+2025-02-02 13:05:05,363 - processor - INFO - Starting processing of hsa-miR-363-5p.xls
+2025-02-02 13:05:05,364 - processor - INFO - Reading file: downloaded_files\hsa-miR-8055.xls
+2025-02-02 13:05:05,364 - processor - INFO - Reading file: downloaded_files\hsa-miR-3605-5p.xls
+2025-02-02 13:05:05,364 - processor - INFO - Reading file: downloaded_files\hsa-miR-363-5p.xls
+2025-02-02 13:05:05,365 - processor - INFO - No available results in downloaded_files\hsa-miR-363-5p.xls
+2025-02-02 13:05:05,365 - processor - INFO - No available results in downloaded_files\hsa-miR-8055.xls
+2025-02-02 13:05:05,366 - processor - INFO - Starting processing of hsa-miR-6745.xls
+2025-02-02 13:05:05,366 - processor - INFO - Starting processing of hsa-miR-323a-5p.xls
+2025-02-02 13:05:05,366 - processor - INFO - Reading file: downloaded_files\hsa-miR-6745.xls
+2025-02-02 13:05:05,367 - processor - INFO - Reading file: downloaded_files\hsa-miR-323a-5p.xls
+2025-02-02 13:05:05,368 - processor - INFO - No available results in downloaded_files\hsa-miR-323a-5p.xls
+2025-02-02 13:05:05,368 - processor - INFO - No available results in downloaded_files\hsa-miR-6745.xls
+2025-02-02 13:05:05,369 - processor - INFO - Starting processing of hsa-miR-1238-5p.xls
+2025-02-02 13:05:05,369 - processor - INFO - Starting processing of hsa-miR-4483.xls
+2025-02-02 13:05:05,369 - processor - INFO - Reading file: downloaded_files\hsa-miR-1238-5p.xls
+2025-02-02 13:05:05,370 - processor - INFO - Reading file: downloaded_files\hsa-miR-4483.xls
+2025-02-02 13:05:05,371 - processor - INFO - No available results in downloaded_files\hsa-miR-4483.xls
+2025-02-02 13:05:05,372 - processor - INFO - Successfully processed downloaded_files\hsa-miR-4761-5p.xls
+2025-02-02 13:05:05,372 - processor - INFO - No available results in downloaded_files\hsa-miR-1238-5p.xls
+2025-02-02 13:05:05,373 - processor - INFO - Starting processing of hsa-miR-369-3p.xls
+2025-02-02 13:05:05,374 - processor - INFO - Successfully extracted data from hsa-miR-4761-5p.xls
+2025-02-02 13:05:05,374 - processor - INFO - Starting processing of hsa-miR-8074.xls
+2025-02-02 13:05:05,374 - processor - INFO - Reading file: downloaded_files\hsa-miR-369-3p.xls
+2025-02-02 13:05:05,374 - processor - INFO - Starting processing of hsa-miR-4658.xls
+2025-02-02 13:05:05,375 - processor - INFO - Reading file: downloaded_files\hsa-miR-8074.xls
+2025-02-02 13:05:05,375 - processor - INFO - Reading file: downloaded_files\hsa-miR-4658.xls
+2025-02-02 13:05:05,376 - processor - INFO - No available results in downloaded_files\hsa-miR-8074.xls
+2025-02-02 13:05:05,376 - processor - INFO - Starting processing of hsa-miR-100-3p.xls
+2025-02-02 13:05:05,377 - processor - INFO - Successfully processed downloaded_files\hsa-miR-3605-5p.xls
+2025-02-02 13:05:05,377 - processor - INFO - Reading file: downloaded_files\hsa-miR-100-3p.xls
+2025-02-02 13:05:05,377 - processor - INFO - No available results in downloaded_files\hsa-miR-4658.xls
+2025-02-02 13:05:05,378 - processor - INFO - Successfully extracted data from hsa-miR-3605-5p.xls
+2025-02-02 13:05:05,379 - processor - INFO - No available results in downloaded_files\hsa-miR-100-3p.xls
+2025-02-02 13:05:05,379 - processor - INFO - Starting processing of hsa-miR-6741-3p.xls
+2025-02-02 13:05:05,379 - processor - INFO - Starting processing of hsa-miR-6790-5p.xls
+2025-02-02 13:05:05,380 - processor - INFO - Starting processing of hsa-miR-4783-3p.xls
+2025-02-02 13:05:05,380 - processor - INFO - Reading file: downloaded_files\hsa-miR-6741-3p.xls
+2025-02-02 13:05:05,380 - processor - INFO - Reading file: downloaded_files\hsa-miR-6790-5p.xls
+2025-02-02 13:05:05,381 - processor - INFO - Reading file: downloaded_files\hsa-miR-4783-3p.xls
+2025-02-02 13:05:05,382 - processor - INFO - No available results in downloaded_files\hsa-miR-4783-3p.xls
+2025-02-02 13:05:05,382 - processor - INFO - No available results in downloaded_files\hsa-miR-6741-3p.xls
+2025-02-02 13:05:05,383 - processor - INFO - Starting processing of hsa-miR-4774-3p.xls
+2025-02-02 13:05:05,383 - processor - INFO - No available results in downloaded_files\hsa-miR-6790-5p.xls
+2025-02-02 13:05:05,384 - processor - INFO - Starting processing of hsa-miR-514b-5p.xls
+2025-02-02 13:05:05,384 - processor - INFO - Reading file: downloaded_files\hsa-miR-4774-3p.xls
+2025-02-02 13:05:05,384 - processor - INFO - Reading file: downloaded_files\hsa-miR-514b-5p.xls
+2025-02-02 13:05:05,384 - processor - INFO - Starting processing of hsa-miR-20b-3p.xls
+2025-02-02 13:05:05,385 - processor - INFO - Reading file: downloaded_files\hsa-miR-20b-3p.xls
+2025-02-02 13:05:05,386 - processor - INFO - Successfully processed downloaded_files\hsa-miR-369-3p.xls
+2025-02-02 13:05:05,386 - processor - INFO - No available results in downloaded_files\hsa-miR-4774-3p.xls
+2025-02-02 13:05:05,386 - processor - INFO - Successfully extracted data from hsa-miR-369-3p.xls
+2025-02-02 13:05:05,387 - processor - INFO - Successfully processed downloaded_files\hsa-miR-514b-5p.xls
+2025-02-02 13:05:05,387 - processor - INFO - No available results in downloaded_files\hsa-miR-20b-3p.xls
+2025-02-02 13:05:05,388 - processor - INFO - Starting processing of hsa-miR-4662a-5p.xls
+2025-02-02 13:05:05,388 - processor - INFO - Starting processing of hsa-miR-3129-3p.xls
+2025-02-02 13:05:05,389 - processor - INFO - Successfully extracted data from hsa-miR-514b-5p.xls
+2025-02-02 13:05:05,390 - processor - INFO - Starting processing of hsa-miR-6783-3p.xls
+2025-02-02 13:05:05,390 - processor - INFO - Reading file: downloaded_files\hsa-miR-4662a-5p.xls
+2025-02-02 13:05:05,390 - processor - INFO - Reading file: downloaded_files\hsa-miR-3129-3p.xls
+2025-02-02 13:05:05,390 - processor - INFO - Starting processing of hsa-miR-1343-3p.xls
+2025-02-02 13:05:05,390 - processor - INFO - Reading file: downloaded_files\hsa-miR-6783-3p.xls
+2025-02-02 13:05:05,391 - processor - INFO - Reading file: downloaded_files\hsa-miR-1343-3p.xls
+2025-02-02 13:05:05,392 - processor - INFO - No available results in downloaded_files\hsa-miR-3129-3p.xls
+2025-02-02 13:05:05,392 - processor - INFO - Successfully processed downloaded_files\hsa-miR-4662a-5p.xls
+2025-02-02 13:05:05,393 - processor - INFO - Starting processing of hsa-miR-4762-5p.xls
+2025-02-02 13:05:05,393 - processor - INFO - Reading file: downloaded_files\hsa-miR-4762-5p.xls
+2025-02-02 13:05:05,393 - processor - INFO - Successfully extracted data from hsa-miR-4662a-5p.xls
+2025-02-02 13:05:05,395 - processor - INFO - Starting processing of hsa-miR-5583-5p.xls
+2025-02-02 13:05:05,395 - processor - INFO - Reading file: downloaded_files\hsa-miR-5583-5p.xls
+2025-02-02 13:05:05,396 - processor - INFO - No available results in downloaded_files\hsa-miR-5583-5p.xls
+2025-02-02 13:05:05,396 - processor - INFO - No available results in downloaded_files\hsa-miR-4762-5p.xls
+2025-02-02 13:05:05,396 - processor - INFO - Starting processing of hsa-miR-1247-3p.xls
+2025-02-02 13:05:05,397 - processor - INFO - Starting processing of hsa-miR-1265.xls
+2025-02-02 13:05:05,397 - processor - INFO - Reading file: downloaded_files\hsa-miR-1247-3p.xls
+2025-02-02 13:05:05,397 - processor - INFO - Reading file: downloaded_files\hsa-miR-1265.xls
+2025-02-02 13:05:05,398 - processor - INFO - No available results in downloaded_files\hsa-miR-1247-3p.xls
+2025-02-02 13:05:05,398 - processor - INFO - No available results in downloaded_files\hsa-miR-1265.xls
+2025-02-02 13:05:05,398 - processor - INFO - Starting processing of hsa-miR-4776-3p.xls
+2025-02-02 13:05:05,399 - processor - INFO - Starting processing of hsa-miR-6868-3p.xls
+2025-02-02 13:05:05,399 - processor - INFO - Reading file: downloaded_files\hsa-miR-4776-3p.xls
+2025-02-02 13:05:05,399 - processor - INFO - Reading file: downloaded_files\hsa-miR-6868-3p.xls
+2025-02-02 13:05:05,400 - processor - INFO - No available results in downloaded_files\hsa-miR-4776-3p.xls
+2025-02-02 13:05:05,400 - processor - INFO - No available results in downloaded_files\hsa-miR-6868-3p.xls
+2025-02-02 13:05:05,401 - processor - INFO - Starting processing of hsa-miR-4433a-5p.xls
+2025-02-02 13:05:05,401 - processor - INFO - Starting processing of hsa-miR-4721.xls
+2025-02-02 13:05:05,401 - processor - INFO - Reading file: downloaded_files\hsa-miR-4433a-5p.xls
+2025-02-02 13:05:05,401 - processor - INFO - Reading file: downloaded_files\hsa-miR-4721.xls
+2025-02-02 13:05:05,402 - processor - INFO - No available results in downloaded_files\hsa-miR-4433a-5p.xls
+2025-02-02 13:05:05,402 - processor - INFO - No available results in downloaded_files\hsa-miR-4721.xls
+2025-02-02 13:05:05,403 - processor - INFO - Successfully processed downloaded_files\hsa-miR-6783-3p.xls
+2025-02-02 13:05:05,404 - processor - INFO - Starting processing of hsa-miR-4653-3p.xls
+2025-02-02 13:05:05,404 - processor - INFO - Successfully processed downloaded_files\hsa-miR-1343-3p.xls
+2025-02-02 13:05:05,405 - processor - INFO - Starting processing of hsa-miR-514a-5p.xls
+2025-02-02 13:05:05,406 - processor - INFO - Successfully extracted data from hsa-miR-6783-3p.xls
+2025-02-02 13:05:05,406 - processor - INFO - Reading file: downloaded_files\hsa-miR-4653-3p.xls
+2025-02-02 13:05:05,407 - processor - INFO - Successfully extracted data from hsa-miR-1343-3p.xls
+2025-02-02 13:05:05,407 - processor - INFO - Reading file: downloaded_files\hsa-miR-514a-5p.xls
+2025-02-02 13:05:05,407 - processor - INFO - Starting processing of hsa-miR-6861-5p.xls
+2025-02-02 13:05:05,408 - processor - INFO - Starting processing of hsa-miR-6757-5p.xls
+2025-02-02 13:05:05,408 - processor - INFO - Reading file: downloaded_files\hsa-miR-6861-5p.xls
+2025-02-02 13:05:05,408 - processor - INFO - Reading file: downloaded_files\hsa-miR-6757-5p.xls
+2025-02-02 13:05:05,409 - processor - INFO - No available results in downloaded_files\hsa-miR-6861-5p.xls
+2025-02-02 13:05:05,409 - processor - INFO - No available results in downloaded_files\hsa-miR-4653-3p.xls
+2025-02-02 13:05:05,409 - processor - INFO - No available results in downloaded_files\hsa-miR-6757-5p.xls
+2025-02-02 13:05:05,410 - processor - INFO - Starting processing of hsa-miR-2355-3p.xls
+2025-02-02 13:05:05,410 - processor - INFO - Starting processing of hsa-miR-6837-3p.xls
+2025-02-02 13:05:05,411 - processor - INFO - Starting processing of hsa-miR-621.xls
+2025-02-02 13:05:05,411 - processor - INFO - Reading file: downloaded_files\hsa-miR-2355-3p.xls
+2025-02-02 13:05:05,411 - processor - INFO - Reading file: downloaded_files\hsa-miR-6837-3p.xls
+2025-02-02 13:05:05,411 - processor - INFO - Reading file: downloaded_files\hsa-miR-621.xls
+2025-02-02 13:05:05,412 - processor - INFO - No available results in downloaded_files\hsa-miR-6837-3p.xls
+2025-02-02 13:05:05,412 - processor - INFO - No available results in downloaded_files\hsa-miR-621.xls
+2025-02-02 13:05:05,413 - processor - INFO - Starting processing of hsa-miR-3149.xls
+2025-02-02 13:05:05,413 - processor - INFO - Reading file: downloaded_files\hsa-miR-3149.xls
+2025-02-02 13:05:05,413 - processor - INFO - Starting processing of hsa-miR-675-3p.xls
+2025-02-02 13:05:05,413 - processor - INFO - Reading file: downloaded_files\hsa-miR-675-3p.xls
+2025-02-02 13:05:05,414 - processor - INFO - No available results in downloaded_files\hsa-miR-3149.xls
+2025-02-02 13:05:05,415 - processor - INFO - Successfully processed downloaded_files\hsa-miR-675-3p.xls
+2025-02-02 13:05:05,415 - processor - INFO - Starting processing of hsa-miR-4758-5p.xls
+2025-02-02 13:05:05,416 - processor - INFO - Successfully extracted data from hsa-miR-675-3p.xls
+2025-02-02 13:05:05,416 - processor - INFO - Reading file: downloaded_files\hsa-miR-4758-5p.xls
+2025-02-02 13:05:05,416 - processor - INFO - Starting processing of hsa-miR-3672.xls
+2025-02-02 13:05:05,416 - processor - INFO - Reading file: downloaded_files\hsa-miR-3672.xls
+2025-02-02 13:05:05,417 - processor - INFO - No available results in downloaded_files\hsa-miR-4758-5p.xls
+2025-02-02 13:05:05,417 - processor - INFO - No available results in downloaded_files\hsa-miR-3672.xls
+2025-02-02 13:05:05,417 - processor - INFO - Starting processing of hsa-miR-4705.xls
+2025-02-02 13:05:05,418 - processor - INFO - Starting processing of hsa-miR-6882-3p.xls
+2025-02-02 13:05:05,418 - processor - INFO - Reading file: downloaded_files\hsa-miR-6882-3p.xls
+2025-02-02 13:05:05,418 - processor - INFO - Reading file: downloaded_files\hsa-miR-4705.xls
+2025-02-02 13:05:05,420 - processor - INFO - No available results in downloaded_files\hsa-miR-6882-3p.xls
+2025-02-02 13:05:05,420 - processor - INFO - No available results in downloaded_files\hsa-miR-4705.xls
+2025-02-02 13:05:05,420 - processor - INFO - Successfully processed downloaded_files\hsa-miR-514a-5p.xls
+2025-02-02 13:05:05,421 - processor - INFO - Successfully processed downloaded_files\hsa-miR-2355-3p.xls
+2025-02-02 13:05:05,421 - processor - INFO - Starting processing of hsa-miR-6864-3p.xls
+2025-02-02 13:05:05,423 - processor - INFO - Successfully extracted data from hsa-miR-514a-5p.xls
+2025-02-02 13:05:05,424 - processor - INFO - Successfully extracted data from hsa-miR-2355-3p.xls
+2025-02-02 13:05:05,424 - processor - INFO - Reading file: downloaded_files\hsa-miR-6864-3p.xls
+2025-02-02 13:05:05,425 - processor - INFO - No available results in downloaded_files\hsa-miR-6864-3p.xls
+2025-02-02 13:05:06,237 - processor - INFO - Starting processing of hsa-miR-587.xls
+2025-02-02 13:05:06,238 - processor - INFO - Reading file: downloaded_files\hsa-miR-587.xls
+2025-02-02 13:05:06,241 - processor - INFO - No available results in downloaded_files\hsa-miR-587.xls
