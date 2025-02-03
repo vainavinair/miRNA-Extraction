@@ -1,0 +1,7 @@
+pandas
+requests
+tqdm
+jupyterlab
+typing
+logging
+datetime
