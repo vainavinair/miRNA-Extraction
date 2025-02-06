@@ -43,3 +43,7 @@ This will start the download and extraction process while logging execution deta
 - **optimized-miRNA-extraction**: Identical to `optimized-miRNA-extraction-logs`, but without logging.
 - **miRNA-extraction**: A basic version without logging or multi-threading.
 
+## Updates
+- **lnc-to-rna**: Identical to `optimized-miRNA-extraction-logs`, but with a slight change in the downlaod link and filtering to extract RNA pairs data using lncRNA geneName
+
+
